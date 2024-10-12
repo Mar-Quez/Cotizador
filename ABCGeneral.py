@@ -75,7 +75,7 @@ class ABC(Frame):
         inicial = 1
         for i  in range(len(self.BDnames)):
             if self.Valores[i] != '':
-                if self.Valores[i] == "-":
+                if (self.Valores[i] == "-" or self.Valores[i] == "0"):
                     forma = "DESC"
                 else:
                     forma = "ASC"
@@ -262,7 +262,7 @@ class ABC(Frame):
         showinfo(title='Ayuda de Filtros', message=msg)
 
     def AyudaOrd(self, e):
-        msg = f"Digita '-' para ordenar la tabla por el campo en orden descendente, cualquier otro caracter para ordenar la tabla en orden ascendente"
+        msg = f"Digita '-' ó '0' para ordenar la tabla por el campo en orden descendente, cualquier otro caracter para ordenar la tabla en orden ascendente"
         showinfo(title='Criterio de orden', message=msg)
 
     def Aviso(self, Tex):
