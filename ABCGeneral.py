@@ -15,7 +15,7 @@ import numpy as np
 
 import datetime
 
-
+y=60
 class ABC(Frame):
 
     def __init__(self, master, Nombre,Liga='',ValLiga=''):

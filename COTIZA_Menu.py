@@ -47,6 +47,8 @@ import Bases
 
 import ABCGeneral
 
+import numpy as np
+
 class Usuario():
     def __init__(self):
         self.BaseUsuarios()

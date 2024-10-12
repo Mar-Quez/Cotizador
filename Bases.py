@@ -55,6 +55,7 @@ DType={'boolean':16,
 'jsonb':	    3802,
 'array':	    1007}
 
+x= 34
 def BD(Nombre,Columnas='*',Accion='select',Condicion='',Orden='',Valores='',Especial=''):
     # Ejemplos
     # accesar toda la base de datos BD(NOMBRE) = "select * from NOMBRE"
