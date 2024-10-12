@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6aa67f9b-6762-4d89-b71a-45245a3b75ea" name="Changes" comment="segunda Entrega" />
+    <list default="true" id="6aa67f9b-6762-4d89-b71a-45245a3b75ea" name="Changes" comment="tercer Entrega">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +20,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Cotizador" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
@@ -39,11 +46,11 @@
   "keyToString": {
     "Python.ABCGeneral.executor": "Run",
     "Python.AUREA_Menu.executor": "Run",
-    "Python.COTIZA_Menu.executor": "Debug",
+    "Python.COTIZA_Menu.executor": "Run",
     "Python.Sumpypininos.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Cotizador",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/marquez/Proyectos/Cotizador/Bases.py",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -184,7 +191,7 @@
       <workItem from="1726410439610" duration="29776000" />
       <workItem from="1727795124419" duration="20012000" />
       <workItem from="1727870808391" duration="9907000" />
-      <workItem from="1728746677012" duration="1988000" />
+      <workItem from="1728746677012" duration="3134000" />
     </task>
     <task id="LOCAL-00001" summary="primera entrega">
       <option name="closed" value="true" />
@@ -202,7 +209,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728748529081</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="tercer Entrega">
+      <option name="closed" value="true" />
+      <created>1728748838191</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728748838191</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,7 +226,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="primera entrega" />
     <MESSAGE value="segunda Entrega" />
-    <option name="LAST_COMMIT_MESSAGE" value="segunda Entrega" />
+    <MESSAGE value="tercer Entrega" />
+    <option name="LAST_COMMIT_MESSAGE" value="tercer Entrega" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -226,7 +242,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Cotizador$ABCGeneral.coverage" NAME="ABCGeneral Coverage Results" MODIFIED="1726410553132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Cotizador$COTIZA_Menu.coverage" NAME="COTIZA_Menu Coverage Results" MODIFIED="1728154373505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Cotizador$COTIZA_Menu.coverage" NAME="COTIZA_Menu Coverage Results" MODIFIED="1728749124767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Cotizador$AUREA_Menu.coverage" NAME="AUREA_Menu Coverage Results" MODIFIED="1727809326414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Cotizador$Sumpypininos.coverage" NAME="Sumpypininos Coverage Results" MODIFIED="1714324617441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
